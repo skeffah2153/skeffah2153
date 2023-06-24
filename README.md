@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skeffah2153
 - 👀 I’m interested in software engineering 
-- 🌱 I’m currently learning aymt ALX
+- 🌱 I’m currently learning at ALX
 - 💞️ I’m looking to collaborate on with friends on different projects
 - 📫 How to reach me on @alxskeffah 
 
